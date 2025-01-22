@@ -1,0 +1,7 @@
+como rodar: pip install django
+python manage.py migrate
+python manage.py createsuperuser / criar a conta admin
+python manage.py runserver
+  http://127.0.0.1:8000/
+http://127.0.0.1:8000/admin/  / acessar a conta admin e aqui em categoria adicionar, por exemplo: amigos, familia etc  
+--------------------------------------------------------
